@@ -19,14 +19,13 @@
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:origin/main" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faa1a6aa-231a-499b-b81b-85ed23bd1ab1" name="默认的" comment="2" />
+    <list default="true" id="faa1a6aa-231a-499b-b81b-85ed23bd1ab1" name="默认的" comment="1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602393716809</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="1">
+      <created>1602396293911</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602396293911</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,7 +119,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/main" />
+                        <option value="main" />
                       </list>
                     </value>
                   </entry>
@@ -127,9 +133,9 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1" />
     <MESSAGE value="2" />
-    <option name="LAST_COMMIT_MESSAGE" value="2" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="121" y="51" width="1024" height="572" key="DiffContextDialog" timestamp="1602394564880">
@@ -144,13 +150,21 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="137" y="128" width="1097" height="480" key="VCS.FileHistoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1602394564880" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1602393805807">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1602396363219">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1602393805807" />
-    <state x="455" y="254" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602393768454">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1602396363219" />
+    <state x="455" y="254" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602396379910">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="455" y="254" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1602393768454" />
+    <state x="455" y="254" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1602396379910" />
+    <state x="440" y="240" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1602396209440">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="440" y="240" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1280.680@0.0.1280.680" timestamp="1602396209440" />
+    <state x="411" y="239" key="git4idea.ui.GitStashDialog" timestamp="1602396185450">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="411" y="239" key="git4idea.ui.GitStashDialog/0.0.1280.680@0.0.1280.680" timestamp="1602396185450" />
   </component>
 </project>
